@@ -6,7 +6,7 @@ export default makeStyles((theme) => ({
     position: 'fixed',
     left: 0,
     bottom: 0,
-    color: 'black',
+    color: 'white',
     width: '100%',
     display: 'flex',
     alignItems: 'center',
